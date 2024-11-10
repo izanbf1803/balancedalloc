@@ -7,7 +7,7 @@ The code was executed using the `jupyter notebook` (https://jupyter.org/install)
 If you have pip installed, you can use:
 
 ```Bash
-pip install notebook numpy scipy matplotlib seaborn
+pip install notebook numpy matplotlib seaborn tqdm
 ```
 
 
