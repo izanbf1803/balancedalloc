@@ -12,5 +12,5 @@ pip install notebook numpy matplotlib seaborn tqdm
 
 
 ## How to execute
-Execute `jupyter notebook` (or `jupyter lab`) in a console on the repository directory. Open `galtonbox.ipynb` and execute all cells.
+Execute `jupyter notebook` (or `jupyter lab`) in a console on the repository directory. Open `Balanced allocation simulations.ipynb` and execute all cells.
 You can find more info at https://docs.jupyter.org/en/latest/running.html.
