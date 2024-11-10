@@ -1,5 +1,5 @@
 # balancedalloc
-Assignment for the Randomized Algorithms (RA-MIRI) course.
+Second assignment for the Randomized Algorithms (RA-MIRI) course.
 
 ## Requirements
 It's required to have Python 3 (https://www.python.org/downloads/) installed.
